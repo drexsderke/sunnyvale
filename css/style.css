@@ -255,6 +255,11 @@ margin-left: 50px;
   /* .section-3{
     margin-top: 10px;    
   } */
+   .section-3{
+    font-family: "Andika", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   }
   .section-3-text{
     font-family: "Andika", sans-serif;
     font-weight: 400;
@@ -281,4 +286,16 @@ margin-left: 50px;
 .section-3-info{
   display: flex;
   gap: 150px;
+}
+.section-3-container{
+  background-color: #EBE1E0;
+  /* color: black; */
+  border: none;
+  width: 620px;
+  height: 385px;
+  border-radius: 20px;
+}
+.section-3-flex{
+  display: flex;
+  gap: 20px;
 }
