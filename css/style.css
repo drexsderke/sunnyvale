@@ -524,6 +524,7 @@ input{
   margin-bottom: 20px;
   font-size: 20px;
   color: #fbf9f9;
+ 
   padding: 10px;
 
   
@@ -535,6 +536,26 @@ input{
   gap:10px;
 }
 
+/* 
+section 5 end */
 
+/* footer */
+.footer-text{
+  display: flex;
+  flex-direction: column;
+}
+.footer{
+  display: flex;
+}
 
+#footer-image{
+  width: 276px;
+  height: 44px;
+}
+.footer-flex-2{
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-left: 455px;
+}
 
